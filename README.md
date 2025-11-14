@@ -1,4 +1,4 @@
-# 🧠 Interview Prep Tracker
+# 🧠AI-Based-DSA-tracker-and-MCQs-Generators-
 
 A **full-stack web application** to organize, track, and visualize your technical interview preparation progress across topics, categories, difficulties, and companies.
 
